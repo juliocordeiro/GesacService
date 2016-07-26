@@ -1,0 +1,14 @@
+entidade\Usuario.class
+persistencia\ServicoDao.class
+entidade\Servico.class
+servlet\ServicoSrv.class
+Properties\Propriedades.class
+persistencia\UsuarioDAO.class
+entidade\Solicitacoes.class
+entidade\Chamado.class
+persistencia\SolicitacaoDao.class
+persistencia\ConexaoFactory.class
+persistencia\ChamadoDAO.class
+entidade\Solicitacoes$status.class
+persistencia\ConnectionFactory.class
+entidade\Perfil.class

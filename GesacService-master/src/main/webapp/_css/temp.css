@@ -1,0 +1,24 @@
+table#tela_login{
+border-radius: 0px 0px 0px 0px;
+-moz-border-radius: 0px 0px 0px 0px;
+-webkit-border-radius: 0px 0px 0px 0px;
+border: 1px solid #000000;
+color: #000000;
+font-weight: bold;
+
+    
+}
+
+body#tela_login {
+    
+width: 1000px; 
+height: 500px;
+border: 3px solid #000000;
+border-radius: 20px;  
+margin: 0 auto;
+color: blue ;
+
+}
+
+
+
